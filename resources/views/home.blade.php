@@ -13,7 +13,6 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
                     {{ trans('auth.logged_in') }}
                 </div>
             </div>

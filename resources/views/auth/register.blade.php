@@ -63,7 +63,7 @@
                                 ]) !!}
 
                             <div class="col-md-6">
-                                {!! Form::password('password_condfirmation', [
+                                {!! Form::password('password_confirmation', [
                                     'id' => 'password-confirm',
                                     'class' => 'form-control', 
                                     'required' => 'required',
